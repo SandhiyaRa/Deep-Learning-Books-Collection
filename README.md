@@ -1,0 +1,3 @@
+This is a repo where I deposit the books which are most important in the deep learning... 
+
+Online version - [http://neuralnetworksanddeeplearning.com/index.html]
